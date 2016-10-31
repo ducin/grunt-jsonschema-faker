@@ -13,7 +13,7 @@
   "homepage": "https://github.com/json-schema-faker/grunt-jsonschema-faker",
   "license": "MIT",
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">= 4"
   },
   "scripts": {
     "test": "grunt test"
